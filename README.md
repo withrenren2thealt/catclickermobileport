@@ -1,2 +1,2 @@
-# withrenren2thealt.github.io
-cst clicker
+# play the game by clickin g the top
+cAt clicker official port made with scratch
